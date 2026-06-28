@@ -3,7 +3,8 @@
 > ECE Engineer | Embedded & IoT Developer | Data Analyst
 
 ## 🌐 Live Demo
-[View Portfolio](https://portfolio.vercel.app) ← (unoda vercel link update pannu)
+[View Portfolio]
+(https://keerthanap-portfolio.vercel.app/)
 
 ## 👩‍💻 About
 Personal portfolio website showcasing my projects, internships, certifications, and achievements.
